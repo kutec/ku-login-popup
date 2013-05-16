@@ -1,4 +1,4 @@
-// JavaScript Document
+// JavaScript by TeckStack.com
 
 $(document).ready(function() {
     $(".button").click(function(e) {
